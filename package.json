@@ -22,7 +22,7 @@
         "libmime": "4.0.1",
         "linkify-it": "2.0.3",
         "mailsplit": "4.2.4",
-        "nodemailer": "4.6.8",
+        "nodemailer": "6.9.9",
         "tlds": "1.203.1"
     },
     "devDependencies": {
